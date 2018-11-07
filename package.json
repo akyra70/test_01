@@ -1,0 +1,12 @@
+{
+    "name": "test01",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_debian.json",
+            "credentialsFile": "flows_debian_cred.json"
+        }
+    }
+}
